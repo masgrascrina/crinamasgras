@@ -1,17 +1,15 @@
 <html>
 <head>
-<title> Prezentre</title>
-<H1 ALIGN=CENTER><marquee direction="right">Prezentare</marquee></H1>
-<link rel="stylesheet" href="style.css"
-</head>
+<H1 ALIGN=CENTER><marquee direction="right">Prezntare</marquee></H1>
 
-<body bgcolor=#c0ded9>
+</head>
+<body bgcolor=#728FCE>
    <h1> Nume: Masgras </h1>
    <h3> Prenume: Crina </h3>
    <h6> Email: crinamasgras@yahoo.com </h6>
-<img width="300" height="300" src="smiley.jpg">
-
-   <div> Asteptari legate de educatie: Sa termin </div>
+   <img width="300"
+   height="300" src=smiley.jpg>
+   <p> Asteptari legate de educatie: Sa termin </p>
    <table bgcolor=yellow width=780 height=40 border=2>
 	       <tr>
 		      <th> Disciplina </th>
@@ -37,19 +35,13 @@
 	       </tr>
 	    
 	</table>
-<table bgcolor=pink width=780 height=40 border=2>
-  <tr>
-    <th>Hobby-uri</th>
-  </tr>
-  <tr>
-    <td>Muzica</td>
-  </tr>
-  <tr>
-    <td>Cititul</td>
-  </tr>
-  <tr>
-    <td>Alergatul</td>
- </tr>
-</table>
+	<br>
+	Hobby-uri:
+	<ul>
+	    <li> Muzica </li>
+	    <li> Cititul </li>
+	    <li> Alergatul </li>
+	</ul>
+      </br>
 </body>
 </html>

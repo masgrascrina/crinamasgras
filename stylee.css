@@ -1,0 +1,39 @@
+
+h1 {
+  text-shadow: 2px 2px;
+}
+h3 {
+  background-color: #c0ded9;
+  color: yellow;
+}
+h6 {
+  background-color: #c0ded9;
+  color: pink;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: white;}
+
+table, th, td {
+  border: 1px solid;
+}  
+
+
+div {
+  width: 180px;
+  height: 25px;
+  padding: 10px;
+  border: 5px solid blue;
+  margin: 0;
+}
