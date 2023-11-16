@@ -1,15 +1,19 @@
 <html>
 <head>
-<H1 ALIGN=CENTER><marquee direction="right">Prezntare</marquee></H1>
-
+<H1 ALIGN=CENTER><marquee direction="right">Title</marquee></H1>
+<script src="java.js" defer></script>
 </head>
-<body bgcolor=#728FCE>
-   <h1> Nume: Masgras </h1>
-   <h3> Prenume: Crina </h3>
-   <h6> Email: crinamasgras@yahoo.com </h6>
-   <img width="300"
+<body id="body">
+<button id="button"> Viata noua </button>
+<br>
+
+    <h1 id="Nume"> Nume: Masgras </h1>
+   <h3 id="Prenume"> Prenume: Crina </h3>
+   <p id="anNastere"> 2004 </p>
+   <h6> id="Email"> Email: crinamasgras@yahoo.com </h6>
+   <id="img" width="300"
    height="300" src=smiley.jpg>
-   <p> Asteptari legate de educatie: Sa termin </p>
+   <p id="Asteptari"> Asteptari legate de educatie: Sa termin </p>
    <table bgcolor=yellow width=780 height=40 border=2>
 	       <tr>
 		      <th> Disciplina </th>
